@@ -1,3 +1,9 @@
+---
+tags:
+  - 🖱️code
+  - 🧩mod
+  - 👪open-source
+---
 <div style="margin-top: -40px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⏫ Remember to enable! <!-- Meant for Obsidian community plugin list view. --></div>
 
 # Obsidian ZotLit
